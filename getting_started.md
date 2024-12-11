@@ -1,6 +1,6 @@
 ---
 layout: presentation
-author: Alexander Naumann
+author: Nabil Hisyam
 title: Markdown Slides | Getting Started
 description: A short introduction into how to set up Markdown Slides and what you can do with it.
 footer:
